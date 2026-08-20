@@ -73,7 +73,7 @@ Map Chart showing where meteorites landed globally.
 ### 9. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
 - `meteorite_analysis.ipynb` - Full Jupyter Notebook analysis
-- `chart1_timeline.png` - Timeline chart
+- `Chart1_Quantity_Discovered_by_Time.png` - Timeline chart
 - `chart2_heaviest.png` - Heaviest types chart
 - `chart3_map.png` - World map chart
 - `README.md` - This file
