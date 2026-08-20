@@ -4,9 +4,20 @@
 ## Official NASA Open Data Project
 
 ### 1. Introduction
-This project analyzes official meteorite landing data provided by NASA. The goal is to explore patterns in when, where, and what types of meteorites have been found on Earth.
+This project analyzes official meteorite landing data provided by NASA. 
 
-### 2. Data Source (100% Official NASA)
+### 2. Main Objective:
+The goal is to explore patterns in when, where, and what types of meteorites have been found on Earth.
+
+### 3. Tasks To Do:
+
+1. clean and prepare the raw NASA data by handling missing values in mass, year, latitude, and longitude.
+2. Answer the 3 key questions:
+A. When were most meteorites discovered? (Timeline Analysis)
+B. What are the heaviest types of meteorites? (Mass by Class Analysis)
+C. Where do meteorites land most? (Geospatial Analysis)
+
+### 4. Data Source (100% Official NASA)
 - **Official Website:** https://data.nasa.gov/dataset/meteorite-landings
 - **Dataset Name:** Meteorite Landings
 - **How to download from official site:**
@@ -18,18 +29,18 @@ This project analyzes official meteorite landing data provided by NASA. The goal
 - **Columns in dataset:**
     - name, id, nametype, recclass, mass (g), fall, year, reclat, reclong, GeoLocation
 
-### 3. Tools Used
+### 5. Tools Used
 - Jupyter Notebook (local PC)
 - Python Libraries: pandas, matplotlib
 
-### 4. Steps Performed
+### 6. Steps Performed
 1. Downloaded official CSV from data.nasa.gov (via CSV -> Explore -> Go to resource)
 2. Loaded dataset in Jupyter Notebook using pandas
 3. Cleaned data: Removed rows with missing latitude, longitude, mass, and year
 4. Converted year column to datetime format
 5. Performed exploratory analysis and created visualizations
 
-### 5. Analysis & Visualizations
+### 7. Analysis & Visualizations
 
 #### Chart 1: Meteorite Discoveries Over Time
 
@@ -66,11 +77,11 @@ map chart showing where meteorites landed globally.
 
 
 
-### 6. Key Findings
+### 8. Key Findings
 - Most meteorites found in Antarctica / deserts
 - Heaviest type is 
 
-### 7. Repository Files
+### 9. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
 - `meteorite_analysis.ipynb` - Full Jupyter Notebook analysis
 - `chart1_timeline.png` - Timeline chart
