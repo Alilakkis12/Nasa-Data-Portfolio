@@ -63,7 +63,7 @@ Average mass by meteorite type.
 #### Chart 3: Global Map of Landings
 Map Chart showing where meteorites landed globally.
 
-![Meteorite WorldMap](World_Map_Meteorites_Density.png)
+![Meteorite WorldMap](Chart3_Meteorites_Density.png)
 
 
 ### 8. Key Findings
