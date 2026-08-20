@@ -63,7 +63,7 @@ Average mass by recclass (meteorite type).
 #### Chart 3: Global Map of Landings
 map chart showing where meteorites landed globally.
 
-[Meteorite WorldMap](meteorite_map.png)
+[Meteorite WorldMap](World map: Meteorites Density Across The World.png)
 
 
 ### 8. Key Findings
