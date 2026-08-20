@@ -68,7 +68,7 @@ Map Chart showing where meteorites landed globally.
 
 ### 8. Key Findings
 - Most meteorites found in Antarctica / deserts
-- Heaviest type are the ones associated with Iron ===> Iron typed.
+- Heaviest type are the ones associated with Iron: Iron type.
 
 ### 9. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
