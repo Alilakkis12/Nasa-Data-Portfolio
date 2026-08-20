@@ -13,9 +13,9 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
 
 1. clean and prepare the raw NASA data by handling missing values in mass, year, latitude, and longitude.
 2. Answer the 3 key questions:
-   A. When were most meteorites discovered? (Timeline Analysis)
-   B. What are the heaviest types of meteorites? (Mass by Class Analysis)
-   C. Where do meteorites land most? (Geospatial Analysis)
+  **A.** When were most meteorites discovered? (Timeline Analysis)
+   **B.** What are the heaviest types of meteorites? (Mass by Class Analysis)
+   **C.** Where do meteorites land most? (Geospatial Analysis)
 
 ### 4. Data Source (100% Official NASA)
 - **Official Website:** https://data.nasa.gov/dataset/meteorite-landings
