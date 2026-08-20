@@ -50,20 +50,20 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
 
 Shows how many meteorites were discovered each year. Shows increase after 1900s.
 
-[No of Meteorites Discovered Over Time](Bar Chart: Quantity of Meteorites Discovered by Time .png)
+![No of Meteorites Discovered Over Time](Bar Chart: Quantity of Meteorites Discovered by Time .png)
 
 
 #### Chart 2: Top 10 Heaviest Meteorite Classes
 
 Average mass by recclass (meteorite type).
 
-[Heaviest TYpes of Meteorites](Bar Chart: Heaviest Types.png)
+![Heaviest TYpes of Meteorites](Bar Chart: Heaviest Types.png)
 
 
 #### Chart 3: Global Map of Landings
 map chart showing where meteorites landed globally.
 
-[Meteorite WorldMap](World map: Meteorites Density Across The World.png)
+![Meteorite WorldMap](World map: Meteorites Density Across The World.png)
 
 
 ### 8. Key Findings
