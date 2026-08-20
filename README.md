@@ -57,7 +57,7 @@ Shows how many meteorites were discovered each year.
 
 Average mass by meteorite type.
 
-![Heaviest TYpes of Meteorites](Bar_Chart_Heaviest_Types.png)
+![Heaviest TYpes of Meteorites](Chart2_Heaviest_Types.png)
 
 
 #### Chart 3: Global Map of Landings
