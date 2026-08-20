@@ -48,27 +48,27 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
 
 #### Chart 1: Meteorite Discoveries Over Time
 
-Shows how many meteorites were discovered each year. Shows increase after 1900s.
+Shows how many meteorites were discovered each year.
 
 ![No of Meteorites Discovered Over Time](Bar_Chart_Quantity_Discovered_by_Time.png)
 
 
-#### Chart 2: Top 10 Heaviest Meteorite Classes
+#### Chart 2: Heaviest Meteorite Classes
 
-Average mass by recclass (meteorite type).
+Average mass by meteorite type.
 
 ![Heaviest TYpes of Meteorites](Bar_Chart_Heaviest_Types.png)
 
 
 #### Chart 3: Global Map of Landings
-map chart showing where meteorites landed globally.
+Map Chart showing where meteorites landed globally.
 
 ![Meteorite WorldMap](World_Map_Meteorites_Density.png)
 
 
 ### 8. Key Findings
 - Most meteorites found in Antarctica / deserts
-- Heaviest type is 
+- Heaviest type are the ones associated with Iron ===> Iron typed.
 
 ### 9. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
