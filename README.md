@@ -35,7 +35,7 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
 
 ### 5. Tools Used
 - Jupyter Notebook (local PC)
-- Python Libraries: pandas, matplotlib
+- Python Libraries: pandas, matplotlib, plotly
 
 ### 6. Steps Performed
 1. Downloaded official CSV from data.nasa.gov (via CSV -> Explore -> Go to resource)
@@ -67,7 +67,8 @@ Map Chart showing where meteorites landed globally.
 
 
 ### 8. Key Findings
-- Most meteorites found in Antarctica / deserts
+
+- Most meteorites found in deserts
 - Heaviest type are the ones associated with Iron: Iron type.
 
 ### 9. Repository Files
