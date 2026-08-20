@@ -75,7 +75,7 @@ Map Chart showing where meteorites landed globally.
 - `meteorite_analysis.ipynb` - Full Jupyter Notebook analysis
 - `Chart1_Quantity_Discovered_by_Time.png` - Timeline chart
 - `Chart2_Heaviest_Types.png` - Heaviest types chart
-- `chart3_map.png` - World map chart
+- `Chart3_Meteorites_Density.png` - World map chart
 - `README.md` - This file
 
 ### 8. Conclusion
