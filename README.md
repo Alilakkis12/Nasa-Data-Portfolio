@@ -50,7 +50,7 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
 
 Shows how many meteorites were discovered each year.
 
-![No of Meteorites Discovered Over Time](Bar_Chart_Quantity_Discovered_by_Time.png)
+![No of Meteorites Discovered Over Time](Chart1_Quantity_Discovered_by_Time.png)
 
 
 #### Chart 2: Heaviest Meteorite Classes
