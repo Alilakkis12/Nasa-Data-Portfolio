@@ -57,7 +57,7 @@ Shows how many meteorites were discovered each year. Shows increase after 1900s.
 
 Average mass by recclass (meteorite type).
 
-![Heaviest TYpes of Meteorites](Bar Chart: Heaviest Types.png)
+![Heaviest TYpes of Meteorites](Bar_Chart_Heaviest_Types.png)
 
 
 #### Chart 3: Global Map of Landings
