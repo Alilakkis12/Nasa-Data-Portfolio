@@ -71,10 +71,10 @@ Correlation between Mass of Meteorites and Years
 
 ![Correlation_mass_years](Chart4_Correlation_mass_years.png)
 
-#### Chart 4: Global Map of Landings
+#### Chart 5: Global Map of Landings
 Map Chart showing where meteorites landed globally.
 
-![Meteorite WorldMap](Chart6_Meteorites_Density.png)
+![Meteorite WorldMap](Chart5_Meteorites_Density.png)
 
 
 ### 8. Key Findings
