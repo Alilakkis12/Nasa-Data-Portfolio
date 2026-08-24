@@ -59,17 +59,28 @@ Average mass by meteorite type.
 
 ![Heaviest TYpes of Meteorites](Chart2_Heaviest_Types.png)
 
+### Chart 3: Change of mass of meteorites by year
 
-#### Chart 3: Global Map of Landings
+Change of mass of meteorites from 1800 to 2013
+
+![Change_mass_years](Chart3_Change_mass_years.png)
+
+### Chart 4: Correlation between Mass of Meteorites and Years
+
+Correlation between Mass of Meteorites and Years
+
+![Correlation_mass_years](Chart4_Correlation_mass_years.png)
+
+#### Chart 4: Global Map of Landings
 Map Chart showing where meteorites landed globally.
 
-![Meteorite WorldMap](Chart3_Meteorites_Density.png)
+![Meteorite WorldMap](Chart6_Meteorites_Density.png)
 
 
 ### 8. Key Findings
-
-- Most meteorites found in deserts
+- Most meteorites landed in USA.
 - Heaviest type are the ones associated with Iron: Iron type.
+- mass and year are slightly innversly related.
 
 ### 9. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
