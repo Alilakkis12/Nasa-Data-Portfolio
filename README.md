@@ -9,6 +9,8 @@ This project analyzes official meteorite landing data provided by NASA.
 ### 2. Main Objective:
 The goal is to explore patterns in when, where, and what types of meteorites have been found on Earth.
 
+And how is the mass and year related, if there is a relation.
+
 ### 3. Tasks To Do:
 
 1. clean and prepare the raw NASA data by handling missing values in mass, year, latitude, and longitude.
@@ -18,8 +20,12 @@ The goal is to explore patterns in when, where, and what types of meteorites hav
    A. When were most meteorites discovered? (Timeline Analysis)
    
    B. What are the heaviest types of meteorites? (Mass by Class Analysis)
+
+   C. How the mass of meteorites changed over years from 1800 till 2013? (Line plot)
+
+   D. How is the mass of meteorites correlated with the years. (correlation heatmap)
    
-   C. Where do meteorites land most? (Geospatial Analysis)
+   E. Where do meteorites land most? (Geospatial Analysis)
 
 ### 4. Data Source (100% Official NASA)
 - **Official Website:** https://data.nasa.gov/dataset/meteorite-landings
