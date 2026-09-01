@@ -88,7 +88,13 @@ Map Chart showing where meteorites landed globally.
 - Heaviest type are the ones associated with Iron: Iron type.
 - mass and year are slightly innversly related.
 
-### 9. Repository Files
+### 9. Conclusion  
+
+In conclusion, we analyzed 45,000+ meteorite landings from NASA's official data.  
+We found most meteorites were found in the USA, and in desert areas like North Africa.   
+The heaviest types are Iron, and newer finds are lighter on average.
+
+### 10. Repository Files
 - `Meteorite_Landings.csv` - Official NASA dataset
 - `Meteorite_analysis.ipynb` - Full Jupyter Notebook analysis
 - `Chart1_Quantity_Discovered_by_Time.png` - Timeline chart
@@ -96,8 +102,6 @@ Map Chart showing where meteorites landed globally.
 - `Chart3_Meteorites_Density.png` - World map chart
 - `README.md` - This file
 
-### 8. Conclusion
-This project demonstrates working with official NASA open data from data.nasa.gov, from download to analysis and visualization, using only the official NASA source without external mirrors.
 
 ### Data Credit
 Data Source: NASA Open Data Portal - data.nasa.gov
